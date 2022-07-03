@@ -1,0 +1,3 @@
+files:
+  - source: '*.[m|h]*'
+    translation: /%locale%/%original_path%/%original_file_name%
